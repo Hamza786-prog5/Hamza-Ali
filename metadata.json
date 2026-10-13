@@ -1,0 +1,6 @@
+{
+  "name": "Hamza AI",
+  "description": "Smart AI assistant with intelligent knowledge research, online user tracking, live customizable rules and admin control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
